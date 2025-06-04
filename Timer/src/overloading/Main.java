@@ -20,7 +20,7 @@ public class Main {
 		Emp emp = new Emp();
 		emp.calsal(50000);
 		emp.calsal(50000, 2000);
-		emp.calsal(300000, 3000, 10000);
+		emp.calsal(3000000, 3000, 10000);
 
 	}
 
