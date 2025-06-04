@@ -9,7 +9,7 @@ public class Insert {
 		Main.GetConnection().createStatement().executeUpdate("insert into user values(4,'tom')");
 		
 		System.out.println("inserted sucessfully...");
-		System.out.println("inserted ...");
+		System.out.println("inserted .");
 		
 		Main.GetConnection().close();
 	}
